@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @tenbenbrett
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Godot
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Godot/Game Dev
 
 <!---
 tenbenbrett/tenbenbrett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
